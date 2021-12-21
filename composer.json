@@ -1,0 +1,15 @@
+{
+    "name": "yangjiehong/php_simple_mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "JzhTW",
+            "email": "qaawssefu0120@gmail.com"
+        }
+    ],
+    "require": {}
+}
