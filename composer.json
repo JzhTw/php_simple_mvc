@@ -11,5 +11,7 @@
             "email": "qaawssefu0120@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
 }
